@@ -20,25 +20,40 @@ I believe in learning by building, solving problems and continuously improving m
 
 ---
 
-## 🛠️ Technologies & Tools
+<h2 align="left">🛠️ Languages and Tools</h2>
 
-**Languages**
+<h3>Programming Languages</h3>
 
-PHP · JavaScript · Python · HTML5 · CSS3
+<p align="left">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
 
-**Frameworks & Libraries**
+<h3>Databases</h3>
 
-Laravel · React · Django · Tailwind CSS
+<p align="left">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
+</p>
 
-**Databases**
+<h3>Tools & Platforms</h3>
 
-MySQL · MariaDB
+<p align="left">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/>
+</p>
 
-**Development Tools**
+<h3>Currently Exploring</h3>
 
-Git · GitHub · VS Code · XAMPP · Linux
-
----
+<p align="left">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+</p>
 
 ## 💻 Featured Projects
 
@@ -81,7 +96,19 @@ I'm committed to becoming a well-rounded software engineer with strong foundatio
 - Contribute to meaningful open-source projects.
 
 ---
+<h2 align="center">📊 GitHub Analytics</h2>
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Wa2rtLhc&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" height="170"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wa2rtLhc&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Wa2rtLhc&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 ### Let's Connect 🤝
 
 I'm always interested in technology, collaboration, knowledge sharing and opportunities to build meaningful solutions.
